@@ -6,3 +6,4 @@
 
 name=input("Type your name: ")
 print(f"Hello {name}! Welcome to GitHub Actions!")
+# all done
